@@ -1,7 +1,7 @@
 stage1_data_pipeline/*.csv
-*.csv
 *.zip
 *.exe
 *.part
 __pycache__/
 *.pyc
+stage1_data_pipeline/vmCloud_data.csv
