@@ -3,3 +3,5 @@ stage1_data_pipeline/*.csv
 *.zip
 *.exe
 *.part
+__pycache__/
+*.pyc
